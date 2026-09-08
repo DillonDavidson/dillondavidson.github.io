@@ -14,6 +14,7 @@ For the latest publications refer to [Google Scholar](https://scholar.google.com
 
 **Dillon Davidson**, Minjae Kang, Yeonjoon Lee, Zuobin Xiong, Junggab Son  
 SecureComm 2026  
+[DOI](https://link.springer.com/chapter/10.1007/978-3-032-32764-2_21)
 
 ---
 
